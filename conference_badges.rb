@@ -17,6 +17,7 @@ end
 def assign_rooms(names, numbers)
 
   puts "Hello, #{names}! You'll be assigned to room #{numbers}!"
+end
 
 def printer
   puts batch_badge_creator
